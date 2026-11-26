@@ -67,11 +67,11 @@ Datasets, checkpoints, logs e resultados gerados não são versionados por padr�
 
 ## Responsabilidades da equipe
 
-- **Pessoa 1:** preparação, limpeza, rotulagem e divisão do dataset.
-- **Pessoa 2:** pesquisa teórica e apresentação.
-- **Pessoa 3:** baseline TF-IDF + Regressão Logística, organização do GitHub e README.
-- **Pessoa 4:** implementação e treinamento do BERTimbau.
-- **Pessoa 5:** avaliação final, testes, análise de erros e demonstração.
+- **Leonardo:** preparação, limpeza, rotulagem e divisão do dataset.
+- **Alex:** pesquisa teórica e apresentação.
+- **Yan:** baseline TF-IDF + Regressão Logística, organização do GitHub e README.
+- **Karine:** implementação e treinamento do BERTimbau.
+- **João:** avaliação final, testes, análise de erros e demonstração.
 
 ## Resultados
 
